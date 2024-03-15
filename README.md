@@ -8,7 +8,7 @@
 | Aires Oliveira  |    90323     |  aproaiscte   |
 | Bruna Pioris    |    99550     |               |
 | Duarte Reforço  |    104923    |               |
-| Pedro Martinho  |    104692    |               |
+| Pedro Martinho  |    104692    |  phlmo1iscte  |
 | Ricardo Ribeiro |    98805     |               |
 | Tiago Longle    |    104684    |               |
 
