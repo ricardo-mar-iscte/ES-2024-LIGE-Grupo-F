@@ -3,14 +3,14 @@
 
 
 ### Elementos do Grupo:
-| Nome            | N. Estudante | UserNm GitHub |
-|-----------------|--------------|---------------|
-| Aires Oliveira  |    90323     |  aproaiscte   |
-| Bruna Pioris    |    99550     |               |
-| Duarte Reforço  |    104923    |  dapro-iscte  |
-| Pedro Martinho  |    104692    |  phlmo1iscte  |
-| Ricardo Ribeiro |    98805     |               |
-| Tiago Longle    |    104684    |               |
+| Nome            | N. Estudante | UserNm GitHub     |
+|-----------------|--------------|-------------------|
+| Aires Oliveira  |    90323     | aproaiscte        |
+| Bruna Pioris    |    99550     |                   |
+| Duarte Reforço  |    104923    | dapro-iscte       |
+| Pedro Martinho  |    104692    | phlmo1iscte       |
+| Ricardo Ribeiro |    98805     | ricardo-mar-iscte |
+| Tiago Longle    |    104684    |                   |
 
 
 ### Descrição do Projeto:
